@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kimkeonlee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Keonlee%21;React+%26+React+Native+Developer;Building+User-Centric+Services" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=&nbsp;&nbsp;👋+Hello%2C+I'm+Keonlee%21;&nbsp;React+%26+React+Native+Developer;&nbsp;Building+User-Centric+Services" alt="Typing SVG" />
   </a>
 </p>
 
